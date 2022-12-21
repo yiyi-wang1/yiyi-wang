@@ -1,8 +1,8 @@
 <h1 align ="center" >Hi, I'm <a href="https://yiyiwang.netlify.app/">Yiyi</a></h1>
 
 - 🎓 I'm a Computer Science student @ NEU
-- 🌱 I’m currently learning ** Java Springboot **
-- 👯 I’m looking to develop some awesome projects **
+- 🌱 I’m currently learning ** C++ **
+- 👯 I’m looking to develop some awesome products **
 - 🤔 I’m looking for SDE opportunity for 2023 **
 - ⚡ Fun fact: Samoyed lover
 
